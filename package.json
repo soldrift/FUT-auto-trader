@@ -10,10 +10,8 @@
     "build:mobile": "npx babel  dist/fut-auto-buyer.user.js --out-file dist/fut-auto-buyer.mobile.js --presets babel-preset-es2015"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/ckalgos/fut-auto-buyer.git"
+    "type": "git"
   },
-  "author": "Ck Algos",
   "license": "ISC",
   "dependencies": {
     "webpack": "^5.47.1"
